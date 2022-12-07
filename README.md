@@ -1,9 +1,3 @@
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansan529&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansan529&layout=compact&theme=github_dark)
-
-    
 🧑🏻‍💻 Saan   
 <a href="https://github.com/Hansan529" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://hansan529.github.io" target="_blank"><img src="https://img.shields.io/badge/GithubPage-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
@@ -23,3 +17,7 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=black"/></a>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansan529&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansan529&layout=compact&theme=github_dark)
