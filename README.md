@@ -11,6 +11,7 @@
 
 🛠️ Tool   
    
+<a href="https://apple.com" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/></a>
 <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
 <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black"/></a>
