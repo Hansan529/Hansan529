@@ -21,3 +21,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansan529&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansan529&layout=compact&theme=github_dark)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
