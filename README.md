@@ -1,4 +1,4 @@
-🧑🏻‍💻 Saan <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHansan529%2F&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>   
+🧑🏻‍💻 Saan <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHansan529%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>   
 <a href="https://github.com/Hansan529" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://hansan529.github.io" target="_blank"><img src="https://img.shields.io/badge/GithubPage-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
 <a href="https://www.instagram.com/ssan_code/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
